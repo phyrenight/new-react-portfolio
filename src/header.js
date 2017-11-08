@@ -4,7 +4,7 @@ class Header extends Component {
 	render() {
 	  return (
       <header>
-        <img src="#" alt="image of Marc Preston"></img>
+        <img src="#" alt="Marc Preston"></img>
         <h1>Marc Preston</h1>
         <h2>Python web developer</h2>
         <nav>
