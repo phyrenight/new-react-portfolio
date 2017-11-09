@@ -5,16 +5,14 @@ class Skills extends Component {
 	  return(
       <section className="SkillsSection">
       <h2>Skills</h2>
-      <ul>
+      <ul id="frontend">
         <li>HTML</li>
         <li>CSS</li>
         <li>SASS</li>
         <li>Javascript</li>
-        <li>React</li>
-        <li>Redux</li>
         <li>webpack</li>
       </ul>
-      <ul>
+      <ul id="backend">
         <li>Python</li>
         <li>Flask</li>
         <li>Sqlalchemy</li>

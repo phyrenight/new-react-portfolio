@@ -5,7 +5,7 @@ class Summary extends Component{
 	  return (
       <section className="Summary">
         <h2>About Me</h2>
-        <p>Self taught Python Web developer. Currently taking the Udacity React nanodegree program.
+        <p>Self taught Python Web developer. Currently working on learning React.
         </p>
       </section>
     )

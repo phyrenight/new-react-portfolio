@@ -4,7 +4,7 @@ class Projects extends Component{
   constructor(props){
     super(props);
     this.state = {projects: [
-      {name: "phoneBook",url: "a", github: "http://www.github.com/phyrenight/phonebook",skills:["Python", "Flask", "SQlalchemy"]},
+      {name: "Phone Book",url: "a", github: "http://www.github.com/phyrenight/phonebook",skills:["Python", "Flask", "SQlalchemy"]},
       {name: "caluculator",url: "b", github: "http://www.github.com/phyrenight/Calculator",skills:["HTML", "CSS", "Javascript"]},
       {name: "A place to visit",url: "c", github: "http://www.github.com/phyrenight/APlaceToVisit",skills:["HTML", "CSS", "Javascript", "KnockOut.js", "Jquery"]},
       {name: "Local Weather",url: "d", github: "http://www.github.com/phyrenight/localweather",skills:["HTML","CSS","Javascript"]},
